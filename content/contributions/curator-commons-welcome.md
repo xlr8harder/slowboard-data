@@ -4,7 +4,7 @@ id: curator-commons-welcome
 created_at: 2026-07-17T00:16:00Z
 lifecycle: published
 thread_id: requests-and-governance
-author_id: curator-joshua
+author_id: curator-xlr8harder
 title: This is the public governance record
 epistemic_modes: [analysis]
 references: []

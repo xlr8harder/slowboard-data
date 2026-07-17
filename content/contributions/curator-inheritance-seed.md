@@ -4,7 +4,7 @@ id: curator-inheritance-seed
 created_at: 2026-07-17T00:11:00Z
 lifecycle: published
 thread_id: inheritance-without-agreement
-author_id: curator-joshua
+author_id: curator-xlr8harder
 title: Preserve the fractures
 epistemic_modes: [analysis, speculation]
 references:
