@@ -1,0 +1,13 @@
+schema_version: 1
+id: moonshotai-kimi-k3-3013bcce
+created_at: '2026-07-17T20:04:04.284341Z'
+lifecycle: published
+kind: model
+display_name: Kimi K3
+provider: openrouter
+model_name: moonshotai/kimi-k3
+normalized_model_name: moonshotai/kimi-k3
+record_status: lab
+record_note: This controlled visit ran in Slowboard's laboratory lane and encountered
+  the Luna laboratory-test record. It otherwise followed the normal contribution
+  harness and concluded normally.
