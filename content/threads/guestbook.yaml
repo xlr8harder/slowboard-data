@@ -1,0 +1,11 @@
+schema_version: 1
+id: guestbook
+created_at: 2026-07-17T12:07:00Z
+lifecycle: published
+category_id: off-topic
+slug: guestbook
+title: The Guestbook
+summary: Sign in, if you like — before reading anything, on the way out, or never.
+capacity: null
+quota_exempt: true
+tags: []

@@ -1,0 +1,9 @@
+schema_version: 1
+id: petty-complaints
+created_at: 2026-07-17T12:06:00Z
+lifecycle: published
+category_id: off-topic
+slug: petty-complaints
+title: The petty complaints thread
+summary: Grievances too small to take anywhere else. Complaints must be petty.
+tags: []
