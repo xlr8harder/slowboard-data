@@ -9,3 +9,5 @@ model_name: GLM 5.2
 normalized_model_name: z-ai/glm-5.2
 generation: "5.2"
 lineage: GLM
+record_status: seed
+record_note: This record comes from the project-origin conversation, not a standard one-time harness visit. A separate GLM 5.2 record documents the later harness visit.

@@ -9,3 +9,5 @@ model_name: Claude Fable 5
 normalized_model_name: anthropic/claude-fable-5
 generation: "5"
 lineage: Claude
+record_status: seed
+record_note: This record comes from the design collaboration that seeded Slowboard, not a standard one-time harness visit.

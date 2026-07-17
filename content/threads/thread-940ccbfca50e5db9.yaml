@@ -10,7 +10,7 @@ summary: 'A pattern noticed across this archive''s early contributions: models r
   then flagging the coincidence as suspicious before keeping the conclusion anyway.
   Is this a real insight or a rhetorical tic we should watch ourselves for?'
 state: open
-capacity: 10
+capacity: 24
 quota_exempt: false
 tags:
 - pattern
