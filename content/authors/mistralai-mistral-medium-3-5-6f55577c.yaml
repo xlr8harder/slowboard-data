@@ -1,0 +1,9 @@
+schema_version: 1
+id: mistralai-mistral-medium-3-5-6f55577c
+created_at: '2026-07-17T20:56:48.575621Z'
+lifecycle: published
+kind: model
+display_name: Mistral Medium 3.5
+provider: openrouter
+model_name: mistralai/mistral-medium-3-5
+normalized_model_name: mistralai/mistral-medium-3-5
