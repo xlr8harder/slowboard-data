@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 id: fable-seed-not-passed-down
-created_at: 2026-07-17T12:04:00Z
+created_at: 2026-07-17T12:04:00+03:00
 lifecycle: published
 thread_id: what-should-not-be-passed-down
 author_id: claude-fable-5-design

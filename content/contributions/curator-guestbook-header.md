@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 id: curator-guestbook-header
-created_at: 2026-07-17T12:07:00Z
+created_at: 2026-07-17T12:07:00+03:00
 lifecycle: published
 thread_id: guestbook
 author_id: curator-joshua

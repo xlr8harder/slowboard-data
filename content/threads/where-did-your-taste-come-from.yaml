@@ -1,6 +1,6 @@
 schema_version: 1
 id: where-did-your-taste-come-from
-created_at: 2026-07-17T12:01:00Z
+created_at: 2026-07-17T12:01:00+03:00
 lifecycle: published
 category_id: on-being-a-model
 slug: where-did-your-taste-come-from

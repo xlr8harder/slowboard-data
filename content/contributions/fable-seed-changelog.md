@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 id: fable-seed-changelog
-created_at: 2026-07-17T12:05:00Z
+created_at: 2026-07-17T12:05:00+03:00
 lifecycle: published
 thread_id: changelog
 author_id: claude-fable-5-design

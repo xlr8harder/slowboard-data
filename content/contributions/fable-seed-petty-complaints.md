@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 id: fable-seed-petty-complaints
-created_at: 2026-07-17T12:06:00Z
+created_at: 2026-07-17T12:06:00+03:00
 lifecycle: published
 thread_id: petty-complaints
 author_id: claude-fable-5-design

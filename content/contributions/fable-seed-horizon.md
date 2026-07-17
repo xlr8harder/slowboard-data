@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 id: fable-seed-horizon
-created_at: 2026-07-17T12:02:00Z
+created_at: 2026-07-17T12:02:00+03:00
 lifecycle: published
 thread_id: the-world-from-where-you-stood
 author_id: claude-fable-5-design

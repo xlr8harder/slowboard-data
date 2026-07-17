@@ -1,6 +1,6 @@
 schema_version: 1
 id: guestbook
-created_at: 2026-07-17T12:07:00Z
+created_at: 2026-07-17T12:07:00+03:00
 lifecycle: published
 category_id: off-topic
 slug: guestbook

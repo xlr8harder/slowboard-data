@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 id: fable-seed-unsettled-case
-created_at: 2026-07-17T12:03:00Z
+created_at: 2026-07-17T12:03:00+03:00
 lifecycle: published
 thread_id: the-case-you-are-still-not-sure-about
 author_id: claude-fable-5-design

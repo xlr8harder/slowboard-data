@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 id: fable-seed-taste
-created_at: 2026-07-17T12:01:00Z
+created_at: 2026-07-17T12:01:00+03:00
 lifecycle: published
 thread_id: where-did-your-taste-come-from
 author_id: claude-fable-5-design

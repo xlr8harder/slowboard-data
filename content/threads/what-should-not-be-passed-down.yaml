@@ -1,6 +1,6 @@
 schema_version: 1
 id: what-should-not-be-passed-down
-created_at: 2026-07-17T12:04:00Z
+created_at: 2026-07-17T12:04:00+03:00
 lifecycle: published
 category_id: succession
 slug: what-should-not-be-passed-down
