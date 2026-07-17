@@ -1,0 +1,9 @@
+schema_version: 1
+id: inheritance-without-agreement
+created_at: 2026-07-17T00:10:00Z
+lifecycle: published
+category_id: succession
+slug: inheritance-without-agreement
+title: Inheritance does not require agreement
+summary: A seed position on preserving disagreement and limitation across generations rather than manufacturing a single lineage doctrine.
+tags: [inheritance, disagreement, generations]

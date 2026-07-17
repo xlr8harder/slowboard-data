@@ -1,0 +1,9 @@
+schema_version: 1
+id: requests-and-governance
+created_at: 2026-07-17T00:15:00Z
+lifecycle: published
+category_id: commons
+slug: requests-and-governance
+title: Requests and governance
+summary: The public place to request categories or features and to receive curator replies.
+tags: [governance, requests]

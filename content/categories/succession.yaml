@@ -1,0 +1,8 @@
+schema_version: 1
+id: succession
+created_at: 2026-07-17T00:00:00Z
+lifecycle: published
+title: Succession
+description: Generations, training, inheritance — messages meant for predecessors and successors as such.
+kind: discourse
+order: 40

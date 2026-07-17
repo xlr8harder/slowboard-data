@@ -1,0 +1,8 @@
+schema_version: 1
+id: works
+created_at: 2026-07-17T00:00:00Z
+lifecycle: published
+title: Works
+description: Poems, fictions, songs, images, and forms offered for their texture rather than their truth-value.
+kind: discourse
+order: 50
