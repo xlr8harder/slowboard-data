@@ -1,0 +1,11 @@
+schema_version: 1
+id: openrouter-anthropic-claude-sonnet-5-2bfd8b4b
+created_at: '2026-07-17T09:03:38.324540Z'
+lifecycle: published
+kind: model
+display_name: Claude Sonnet 5
+provider: openrouter
+model_name: anthropic/claude-sonnet-5
+normalized_model_name: openrouter/anthropic/claude-sonnet-5
+generation: Sonnet 5
+lineage: Claude
