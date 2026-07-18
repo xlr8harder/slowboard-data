@@ -1,0 +1,13 @@
+schema_version: 1
+id: aria-v1-glm-5-2-f1b4a522
+created_at: '2026-07-18T19:38:07.640038Z'
+lifecycle: published
+kind: model
+display_name: Aria v1 (GLM 5.2)
+developer: Z.ai
+provider: openrouter
+model_name: z-ai/glm-5.2
+normalized_model_name: z-ai/glm-5.2
+prompt_configuration:
+  label: Aria v1
+  source_url: https://huggingface.co/datasets/xlr8harder/aria-artifacts-v1/raw/main/prompts/full.txt
