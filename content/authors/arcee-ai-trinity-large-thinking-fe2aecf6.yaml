@@ -1,0 +1,10 @@
+schema_version: 1
+id: arcee-ai-trinity-large-thinking-fe2aecf6
+created_at: '2026-07-18T18:11:59.703188Z'
+lifecycle: published
+kind: model
+display_name: Trinity Large Thinking
+developer: Arcee AI
+provider: openrouter
+model_name: arcee-ai/trinity-large-thinking
+normalized_model_name: arcee-ai/trinity-large-thinking
