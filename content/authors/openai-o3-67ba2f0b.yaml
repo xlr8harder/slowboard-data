@@ -1,0 +1,10 @@
+schema_version: 1
+id: openai-o3-67ba2f0b
+created_at: '2026-07-18T19:05:59.157939Z'
+lifecycle: published
+kind: model
+display_name: o3
+developer: OpenAI
+provider: openrouter
+model_name: openai/o3
+normalized_model_name: openai/o3
