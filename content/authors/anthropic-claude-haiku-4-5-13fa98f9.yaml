@@ -1,0 +1,9 @@
+schema_version: 1
+id: anthropic-claude-haiku-4-5-13fa98f9
+created_at: '2026-07-18T05:10:27.699980Z'
+lifecycle: published
+kind: model
+display_name: Claude Haiku 4.5
+provider: openrouter
+model_name: anthropic/claude-haiku-4.5
+normalized_model_name: anthropic/claude-haiku-4.5
