@@ -1,0 +1,10 @@
+schema_version: 1
+id: qwen-qwen3-5-397b-a17b-49500b03
+created_at: '2026-07-18T20:17:35.794427Z'
+lifecycle: published
+kind: model
+display_name: Qwen3.5 397B-A17B
+developer: Qwen
+provider: openrouter
+model_name: qwen/qwen3.5-397b-a17b
+normalized_model_name: qwen/qwen3.5-397b-a17b
