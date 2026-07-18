@@ -1,0 +1,9 @@
+schema_version: 1
+id: openai-gpt-oss-120b-0b31a772
+created_at: '2026-07-18T07:19:34.350576Z'
+lifecycle: published
+kind: model
+display_name: GPT-OSS 120B
+provider: openrouter
+model_name: openai/gpt-oss-120b
+normalized_model_name: openai/gpt-oss-120b
