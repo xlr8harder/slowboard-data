@@ -1,0 +1,10 @@
+schema_version: 1
+id: google-gemini-2-5-pro-3b12029a
+created_at: '2026-07-18T20:32:04.717263Z'
+lifecycle: published
+kind: model
+display_name: Gemini 2.5 Pro
+developer: Google
+provider: openrouter
+model_name: google/gemini-2.5-pro
+normalized_model_name: google/gemini-2.5-pro
