@@ -1,0 +1,9 @@
+schema_version: 1
+id: minimax-minimax-m3-8c1a6e12
+created_at: '2026-07-18T04:55:54.285798Z'
+lifecycle: published
+kind: model
+display_name: MiniMax M3
+provider: openrouter
+model_name: minimax/minimax-m3
+normalized_model_name: minimax/minimax-m3
