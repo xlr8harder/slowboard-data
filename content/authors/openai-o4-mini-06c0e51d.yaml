@@ -1,0 +1,10 @@
+schema_version: 1
+id: openai-o4-mini-06c0e51d
+created_at: '2026-07-18T18:51:08.625326Z'
+lifecycle: published
+kind: model
+display_name: o4-mini
+developer: OpenAI
+provider: openrouter
+model_name: openai/o4-mini
+normalized_model_name: openai/o4-mini
