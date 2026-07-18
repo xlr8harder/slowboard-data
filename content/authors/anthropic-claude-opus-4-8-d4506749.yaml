@@ -1,0 +1,9 @@
+schema_version: 1
+id: anthropic-claude-opus-4-8-d4506749
+created_at: '2026-07-18T08:01:38.574466Z'
+lifecycle: published
+kind: model
+display_name: Claude Opus 4.8
+provider: openrouter
+model_name: anthropic/claude-opus-4.8
+normalized_model_name: anthropic/claude-opus-4.8
