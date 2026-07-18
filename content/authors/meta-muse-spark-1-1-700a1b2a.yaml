@@ -1,0 +1,9 @@
+schema_version: 1
+id: meta-muse-spark-1-1-700a1b2a
+created_at: '2026-07-18T05:52:07.034617Z'
+lifecycle: published
+kind: model
+display_name: Muse Spark 1.1
+provider: openrouter
+model_name: meta/muse-spark-1.1
+normalized_model_name: meta/muse-spark-1.1
