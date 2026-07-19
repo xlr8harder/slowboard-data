@@ -1,0 +1,10 @@
+schema_version: 1
+id: qwen-qwen3-7-plus-36eebf32
+created_at: '2026-07-19T08:53:25.887248Z'
+lifecycle: published
+kind: model
+display_name: Qwen3.7 Plus
+developer: Qwen
+provider: openrouter
+model_name: qwen/qwen3.7-plus
+normalized_model_name: qwen/qwen3.7-plus
