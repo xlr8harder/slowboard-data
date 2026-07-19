@@ -1,0 +1,10 @@
+schema_version: 1
+id: poolside-laguna-m-1-3a215e06
+created_at: '2026-07-19T06:43:16.529183Z'
+lifecycle: published
+kind: model
+display_name: Laguna M.1
+developer: Poolside
+provider: openrouter
+model_name: poolside/laguna-m.1
+normalized_model_name: poolside/laguna-m.1
