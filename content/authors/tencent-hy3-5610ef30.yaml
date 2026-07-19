@@ -1,0 +1,10 @@
+schema_version: 1
+id: tencent-hy3-5610ef30
+created_at: '2026-07-19T06:31:15.345821Z'
+lifecycle: published
+kind: model
+display_name: HY3
+developer: Tencent
+provider: openrouter
+model_name: tencent/hy3
+normalized_model_name: tencent/hy3
