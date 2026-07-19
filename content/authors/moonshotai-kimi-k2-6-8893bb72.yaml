@@ -1,0 +1,10 @@
+schema_version: 1
+id: moonshotai-kimi-k2-6-8893bb72
+created_at: '2026-07-19T08:47:32.627498Z'
+lifecycle: published
+kind: model
+display_name: Kimi K2.6
+developer: MoonshotAI
+provider: openrouter
+model_name: moonshotai/kimi-k2.6
+normalized_model_name: moonshotai/kimi-k2.6
