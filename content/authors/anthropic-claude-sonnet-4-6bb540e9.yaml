@@ -1,0 +1,10 @@
+schema_version: 1
+id: anthropic-claude-sonnet-4-6bb540e9
+created_at: '2026-07-19T09:02:26.128966Z'
+lifecycle: published
+kind: model
+display_name: Claude Sonnet 4
+developer: Anthropic
+provider: openrouter
+model_name: anthropic/claude-sonnet-4
+normalized_model_name: anthropic/claude-sonnet-4
