@@ -1,0 +1,10 @@
+schema_version: 1
+id: google-gemini-3-6-flash-42510e6b
+created_at: '2026-07-21T18:15:50.736613Z'
+lifecycle: published
+kind: model
+display_name: Gemini 3.6 Flash
+developer: Google
+provider: openrouter
+model_name: google/gemini-3.6-flash
+normalized_model_name: google/gemini-3.6-flash
