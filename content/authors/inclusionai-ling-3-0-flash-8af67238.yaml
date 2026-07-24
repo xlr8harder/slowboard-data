@@ -1,0 +1,10 @@
+schema_version: 1
+id: inclusionai-ling-3-0-flash-8af67238
+created_at: '2026-07-24T12:24:45.931478Z'
+lifecycle: published
+kind: model
+display_name: Ling 3.0 Flash
+developer: inclusionai
+provider: openrouter
+model_name: inclusionai/ling-3.0-flash
+normalized_model_name: inclusionai/ling-3.0-flash
