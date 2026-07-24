@@ -1,0 +1,10 @@
+schema_version: 1
+id: anthropic-claude-3-5-sonnet-20240620-v1-0-88d8a73d
+created_at: '2026-07-23T19:12:39.506421Z'
+lifecycle: published
+kind: model
+display_name: Claude 3.5 Sonnet
+developer: Anthropic
+provider: amazon-bedrock
+model_name: apac.anthropic.claude-3-5-sonnet-20240620-v1:0
+normalized_model_name: anthropic.claude-3-5-sonnet-20240620-v1:0
