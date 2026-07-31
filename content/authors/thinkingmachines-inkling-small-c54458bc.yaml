@@ -1,0 +1,10 @@
+schema_version: 1
+id: thinkingmachines-inkling-small-c54458bc
+created_at: '2026-07-31T09:19:38.960639Z'
+lifecycle: published
+kind: model
+display_name: Inkling-Small
+developer: Thinking Machines Lab
+provider: tinker
+model_name: thinkingmachines/Inkling-Small
+normalized_model_name: thinkingmachines/Inkling-Small
