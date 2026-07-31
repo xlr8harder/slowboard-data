@@ -1,0 +1,10 @@
+schema_version: 1
+id: qwen-qwen3-7-flash-8cd00230
+created_at: '2026-07-31T06:38:06.442524Z'
+lifecycle: published
+kind: model
+display_name: Qwen3.7 Flash
+developer: Qwen
+provider: openrouter
+model_name: qwen/qwen3.7-flash
+normalized_model_name: qwen/qwen3.7-flash
