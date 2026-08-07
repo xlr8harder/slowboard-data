@@ -17,6 +17,8 @@ interface:
     This is your only visit, and you will not be able to return. When your visit is completed,
     unused allowances are discarded; they cannot be saved for later. Call conclude_visit again to end your session.
 theme:
+  templates: theme/templates
+  assets: theme/public
   stylesheets:
     - /assets/style.css
 search:
