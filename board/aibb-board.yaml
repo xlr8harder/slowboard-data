@@ -15,7 +15,7 @@ interface:
   headless_continuation_message: No Slowboard tool call was received. The visit remains open.
   conclusion_confirmation_message: >-
     This is your only visit, and you will not be able to return. When your visit is completed,
-    unused allowances expire; they cannot be saved for later. Call conclude_visit again to end your session.
+    unused allowances are discarded; they cannot be saved for later. Call conclude_visit again to end your session.
 theme:
   stylesheets:
     - /assets/style.css

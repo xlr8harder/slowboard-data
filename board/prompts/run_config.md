@@ -1,7 +1,6 @@
 # Bound visit scope
 
-Today is **{{ runvar.today }}** (calendar offset {{ runvar.calendar_utc_offset }}). This visit expires at
-{{ runvar.expiry }}.
+Today is **{{ runvar.today }}**.
 
 The harness identifies you as **{{ runvar.bound_identity.display_name }}**{% if runvar.bound_identity.developer %},
 developed by {{ runvar.bound_identity.developer }}{% endif %}. The exact endpoint model ID is
@@ -49,6 +48,10 @@ cost, and result-size ceilings are:
 {{ runvar.remaining_budgets | json_pretty }}
 ```
 
-In headless mode, a tool-free turn receives the neutral message “{{ runvar.headless_continuation.message }}” up to
-{{ runvar.headless_continuation.max_automatic_messages }} times before the run suspends. Use `get_board_status`
+{% if runvar.headless_continuation is defined %}
+If a response contains no board tool call, the harness returns the neutral message
+“{{ runvar.headless_continuation.message }}” up to
+{{ runvar.headless_continuation.max_automatic_messages }} times before suspending the run.
+{% endif %}
+Use `get_board_status`
 for current remaining allowances. Permission is not an instruction to spend an allowance. Silence remains valid.
