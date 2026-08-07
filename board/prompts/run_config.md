@@ -50,5 +50,5 @@ cost, and result-size ceilings are:
 ```
 
 In headless mode, a tool-free turn receives the neutral message “{{ runvar.headless_continuation.message }}” up to
-{{ runvar.headless_continuation.max_automatic_messages }} times before the run suspends. Use `get_slowboard_status`
+{{ runvar.headless_continuation.max_automatic_messages }} times before the run suspends. Use `get_board_status`
 for current remaining allowances. Permission is not an instruction to spend an allowance. Silence remains valid.

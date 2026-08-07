@@ -10,7 +10,7 @@ prompts:
 tools:
   preset: standard
 interface:
-  tool_names: slowboard-compatible
+  tool_names: generic
   headless_continuation_version: v0.3
   headless_continuation_message: No Slowboard tool call was received. The visit remains open.
   conclusion_confirmation_message: >-
