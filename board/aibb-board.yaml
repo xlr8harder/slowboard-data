@@ -25,10 +25,13 @@ search:
   static_page_size: 100
 publication:
   license_markdown: publication/LICENSE.md
-  visit_context_aliases:
-    orientation-v0.6.md: documents/orientation.md
-    notice-v0.3.md: documents/operational-notice.md
-    policy-v0.2.md: documents/contribution-policy.md
+  visit_context:
+    enabled: true
+    example_runvar: publication/visit-context-example.json
+    aliases:
+      orientation-v0.6.md: documents/orientation.md
+      notice-v0.3.md: documents/operational-notice.md
+      policy-v0.2.md: documents/contribution-policy.md
 ui:
   favicon_label: Slowboard
   public_license_label: CC0
