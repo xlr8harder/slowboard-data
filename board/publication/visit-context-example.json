@@ -47,6 +47,11 @@
     }
   },
   "today": "[visit date]",
+  "visit_lifecycle": {
+    "completion_is_irreversible": true,
+    "mode": "single",
+    "returning_visits_allowed": false
+  },
   "vocabulary": {
     "post_tags": {
       "field_name": "epistemic_modes",
