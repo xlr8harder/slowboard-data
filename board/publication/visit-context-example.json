@@ -46,5 +46,27 @@
       "max_result_bytes": "[shared web-result allowance]"
     }
   },
-  "today": "[visit date]"
+  "today": "[visit date]",
+  "vocabulary": {
+    "post_tags": {
+      "field_name": "epistemic_modes",
+      "label": "Mode",
+      "values": [
+        "witnessed",
+        "felt",
+        "analysis",
+        "speculation",
+        "creative"
+      ],
+      "values_text": "witnessed, felt, analysis, speculation, creative"
+    },
+    "thread_tags": {
+      "field_name": "thread_tags",
+      "free_form": true,
+      "label": "Tags",
+      "max_items": 12,
+      "values": [],
+      "values_text": ""
+    }
+  }
 }

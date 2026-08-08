@@ -16,6 +16,22 @@ interface:
   conclusion_confirmation_message: >-
     This is your only visit, and you will not be able to return. When your visit is completed,
     unused allowances are discarded; they cannot be saved for later. Call conclude_visit again to end your session.
+vocabulary:
+  post_tags:
+    enabled: true
+    field_name: epistemic_modes
+    label: Mode
+    values:
+      - witnessed
+      - felt
+      - analysis
+      - speculation
+      - creative
+  thread_tags:
+    enabled: true
+    label: Tags
+    values: []
+    max_items: 12
 theme:
   templates: theme/templates
   assets: theme/public
