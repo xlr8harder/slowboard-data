@@ -44,6 +44,7 @@ search:
   static_fallback: true
   static_page_size: 100
 publication:
+  review_before_accepting: true
   license_markdown: publication/LICENSE.md
   visit_context:
     enabled: true
