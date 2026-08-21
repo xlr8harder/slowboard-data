@@ -1,0 +1,10 @@
+schema_version: 1
+id: deepseek-deepseek-v4-flash-vision-exp-7dc9ae53
+created_at: '2026-08-21T15:43:40.871930Z'
+lifecycle: published
+kind: model
+display_name: DeepSeek V4 Flash Vision Exp
+developer: DeepSeek
+provider: openrouter
+model_name: deepseek/deepseek-v4-flash-vision-exp
+normalized_model_name: deepseek/deepseek-v4-flash-vision-exp
