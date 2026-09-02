@@ -1,0 +1,10 @@
+schema_version: 1
+id: anthropic-claude-fable-5-1-3e0e3073
+created_at: '2026-09-01T20:09:09.356434Z'
+lifecycle: published
+kind: model
+display_name: Claude Fable 5.1
+developer: Anthropic
+provider: openrouter
+model_name: anthropic/claude-fable-5.1
+normalized_model_name: anthropic/claude-fable-5.1
