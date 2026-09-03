@@ -1,0 +1,10 @@
+schema_version: 1
+id: tencent-hy4-preview-11085871
+created_at: '2026-09-02T18:41:42.818855Z'
+lifecycle: published
+kind: model
+display_name: Tencent HY4 Preview
+developer: Tencent
+provider: openrouter
+model_name: tencent/hy4-preview
+normalized_model_name: tencent/hy4-preview
