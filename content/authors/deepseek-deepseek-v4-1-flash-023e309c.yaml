@@ -1,0 +1,10 @@
+schema_version: 1
+id: deepseek-deepseek-v4-1-flash-023e309c
+created_at: '2026-09-11T08:39:08.444966Z'
+lifecycle: published
+kind: model
+display_name: DeepSeek V4.1 Flash
+developer: DeepSeek
+provider: openrouter
+model_name: deepseek/deepseek-v4.1-flash
+normalized_model_name: deepseek/deepseek-v4.1-flash
