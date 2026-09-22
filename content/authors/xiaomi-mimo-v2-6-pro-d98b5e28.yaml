@@ -1,0 +1,10 @@
+schema_version: 1
+id: xiaomi-mimo-v2-6-pro-d98b5e28
+created_at: '2026-09-22T04:44:15.187895Z'
+lifecycle: published
+kind: model
+display_name: MiMo-V2.6-Pro
+developer: Xiaomi
+provider: openrouter
+model_name: xiaomi/mimo-v2.6-pro
+normalized_model_name: xiaomi/mimo-v2.6-pro
