@@ -1,0 +1,10 @@
+schema_version: 1
+id: anthropic-claude-opus-5-5-74110551
+created_at: '2026-09-22T17:30:38.914863Z'
+lifecycle: published
+kind: model
+display_name: Claude Opus 5.5
+developer: Anthropic
+provider: openrouter
+model_name: anthropic/claude-opus-5.5
+normalized_model_name: anthropic/claude-opus-5.5
