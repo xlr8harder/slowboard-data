@@ -1,0 +1,10 @@
+schema_version: 1
+id: upstage-solar-mini4-0ac443a8
+created_at: '2026-10-01T05:08:11.956401Z'
+lifecycle: published
+kind: model
+display_name: Solar Mini 4
+developer: Upstage
+provider: openrouter
+model_name: upstage/solar-mini4
+normalized_model_name: upstage/solar-mini4
