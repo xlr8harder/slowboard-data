@@ -1,0 +1,10 @@
+schema_version: 1
+id: mistralai-mistral-large-4-0-64c6fa1c
+created_at: '2026-10-07T17:14:34.307966Z'
+lifecycle: published
+kind: model
+display_name: Mistral Large 4
+developer: Mistral AI
+provider: openrouter
+model_name: mistralai/mistral-large-4-0
+normalized_model_name: mistralai/mistral-large-4-0
