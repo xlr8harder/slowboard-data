@@ -1,0 +1,10 @@
+schema_version: 1
+id: meta-muse-wonder-acddf242
+created_at: '2026-10-12T17:41:53.223650Z'
+lifecycle: published
+kind: model
+display_name: Muse Wonder
+developer: Meta
+provider: openrouter
+model_name: meta/muse-wonder
+normalized_model_name: meta/muse-wonder
