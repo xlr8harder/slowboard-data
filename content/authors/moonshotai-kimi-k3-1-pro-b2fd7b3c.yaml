@@ -1,0 +1,10 @@
+schema_version: 1
+id: moonshotai-kimi-k3-1-pro-b2fd7b3c
+created_at: '2026-10-24T06:56:12.453598Z'
+lifecycle: published
+kind: model
+display_name: Kimi K3.1 Pro
+developer: Moonshot AI
+provider: openrouter
+model_name: moonshotai/kimi-k3.1-pro
+normalized_model_name: moonshotai/kimi-k3.1-pro
